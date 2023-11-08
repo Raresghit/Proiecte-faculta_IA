@@ -1,0 +1,43 @@
+img {
+  max-width: 50%;
+  height: auto;
+display: block;
+border-radius: 10px;
+margin-left: auto;
+margin-right: auto;
+widith: 50%;
+}
+
+body {
+  background-color: forestgreen;
+}
+
+h1 {
+  background-color: default;
+}
+
+div {
+  background-color: lightblue;
+}
+
+p {
+  background-color: default;
+  text-align-last: center;
+margin-top: 30px;
+text-decoration-line: underline;
+text-decoration-color:black;
+color: white;
+}
+ul{
+color: white;
+}
+
+
+table, th, td {
+  border: 1px solid;
+ background-color: #04AA6D;
+  color: white;
+width:100%;
+margin-top: 10px;
+}
+
