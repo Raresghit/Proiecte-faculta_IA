@@ -15,11 +15,6 @@ body {
 h1 {
   background-color: default;
 }
-
-div {
-  background-color: lightblue;
-}
-
 p {
   background-color: default;
   text-align-last: center;
