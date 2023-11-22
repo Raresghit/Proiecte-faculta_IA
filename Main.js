@@ -10,5 +10,5 @@ button.addEventListener("click", AltaPagina);
 function AltaPagina() {
     nume.innerHTML = "Functie: Senior Java Developer";
     Prenume.innerHTML = "Locul de munca: Praga";
-    // Nu există referire la 'asteptari' în HTML, deci eliminăm această linie
+    
 }
